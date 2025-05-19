@@ -1,3 +1,5 @@
 =BDH("SB1 Comdty,C 1 Comdty,W 1 Comdty,CT1 Comdty,CC1 Comdty,KC1 Comdty", 
      "CFTC_AM_ALL_PCT_OI_LONG,CFTC_AM_ALL_PCT_OI_SHORT", 
      "01/01/2022", "05/19/2025", "WEEKLY=TRUE")
+
+     =BDH("SB1 Comdty", "CFTC_AM_ALL_NET_POSITIONS", "01/01/2022", "05/19/2025")
